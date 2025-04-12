@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
  <div>
-   <a href="https://github.com/NicolasMatsumoto">
+   <a href="https://github.com/NicolasMatsumotoNogueira">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasMatsumoto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMatsumoto&layout=compact&langs_count=6&theme=cobalt"/>
 </div>
